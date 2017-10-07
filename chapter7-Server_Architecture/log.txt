@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "in_zen1.py", line 7, in <module>
+    address = sock.getpeername()
+OSError: [Errno 88] Socket operation on non-socket
+Traceback (most recent call last):
+  File "in_zen1.py", line 7, in <module>
+    address = sock.getpeername()
+OSError: [Errno 88] Socket operation on non-socket
+Traceback (most recent call last):
+  File "in_zen1.py", line 7, in <module>
+    address = sock.getpeername()
+OSError: [Errno 88] Socket operation on non-socket
